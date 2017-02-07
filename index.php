@@ -1,6 +1,5 @@
 <?php
 
 echo "hi!";
-echo "hello world";
 
-asfd;klj
+echo "hello world";
